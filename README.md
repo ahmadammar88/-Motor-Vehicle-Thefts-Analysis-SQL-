@@ -7,8 +7,7 @@ Table of Contents
 - [Data Sources](#data-sources)
 - [Functions Used](#functions-used)
 - [Data Analysis](#data-analysis)
-- [References](#references)
-
+  
 ### Project Overview
 
 This project focuses on analyzing stolen vehicles data using SQL. The goal is to gain insights into the patterns and characteristics of stolen vehicles by employing SQL queries for data manipulation and analysis.
