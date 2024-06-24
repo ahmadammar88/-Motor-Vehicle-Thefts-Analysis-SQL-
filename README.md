@@ -47,7 +47,3 @@ Key data analysis tasks performed on the stolen vehicles dataset include:
 
 
 
-
-
-Feel free to customize this template further based on the specific details of your Stolen Vehicles Data Analysis project.
-use this apporach i mean use where ** # - 
