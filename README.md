@@ -13,9 +13,9 @@ Table of Contents
 This project focuses on analyzing stolen vehicles data using SQL. The goal is to gain insights into the patterns and characteristics of stolen vehicles by employing SQL queries for data manipulation and analysis.
 
 Tools
-
 - MySQL
 
+  
 Data Sources
 
 The primary data source for this project is the MySQL database containing information about stolen vehicles. The database schema includes tables for vehicle details, locations, and vehicle makes.
