@@ -1,4 +1,4 @@
-Stolen_Vehicles_Data_Analysis
+Restaurant Ratings Analysis
 
 Table of Contents
 
@@ -10,43 +10,34 @@ Table of Contents
   
 ### Project Overview
 
-This project focuses on analyzing stolen vehicles data using SQL. The goal is to gain insights into the patterns and characteristics of stolen vehicles by employing SQL queries for data manipulation and analysis.
+Project Overview
+This project focuses on analyzing restaurant ratings data using SQL. The goal is to gain insights into the patterns and characteristics of restaurant ratings by employing SQL queries for data manipulation and analysis.
 
 Tools
-
 - MySQL
 
 Data Sources
-
-The primary data source for this project is the MySQL database containing information about stolen vehicles. The database schema includes tables for vehicle details, locations, and vehicle makes.
+The primary data sources for this project are CSV files containing information about restaurant ratings. The database schema includes tables for consumer preferences, consumer details, restaurant ratings, restaurant details, and restaurant cuisines.
 
 Functions Used
-
 The project utilizes various SQL functions for data analysis, including:
+Joins
+Aggregation Functions
+Filtering and Sorting
 
-- Joins
-- Subqueries
-- Aggregation Functions
-- Filtering and Sorting
+Data Analysis
+Key data analysis tasks performed on the restaurant ratings dataset include:
+1. **Identifying Most Preferred Cuisines:**
+   - Using aggregate functions to determine the cuisines with the highest number of preferences.
+Regional Analysis:
+Analyzing restaurant ratings patterns based on regions using joins with location data.
+Average Ratings by Consumer:
+Calculating the average overall, food, and service ratings given by each consumer using aggregation functions.
+Consumer and Restaurant Interaction:
+Examining the relationship between consumers and restaurants using join queries to combine data from multiple tables.
+Most Rated Restaurants:
+Identifying the restaurants with the highest number of ratings using aggregate functions and grouping.
+Top Rated Restaurants:
+Retrieving information about the highest-rated restaurants based on overall rating, food rating, and service rating.
 
-### Data Analysis
-
-Key data analysis tasks performed on the stolen vehicles dataset include:
-
-1. **Identifying Most Stolen Vehicle Makes:**
-   - Using aggregate functions to determine the vehicle makes with the highest number of thefts.
-
-2. **Regional Analysis:**
-   - Analyzing theft patterns based on regions using joins with location data.
-
-3. **Oldest Stolen Vehicles:**
-   - Retrieving information about the oldest stolen vehicles based on the model year.
-
-4. **Make Details and Thefts:**
-   - Examining the relationship between vehicle makes and thefts using subqueries.
-
-
-
-
-
-Feel free to customize this template further based on the specific details of your Stolen Vehicles Data Analysis project.
+Feel free to customize this template further based on the specific details of your Restaurant Ratings Analysis project.
